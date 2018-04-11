@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00041a</color>
+    <color name="colorPrimaryDark">#4f5369</color>
+    <color name="colorAccent">#b4afb1</color>
+
+    <!-- Red -->
+    <color name="red_temp">#a9232a</color>
+    <color name="red_dark">#920404</color>
+    <color name="bright_red">#aed81b02</color>
+    <color name="button_red">#a51017</color>
+
+    <!-- Black -->
+    <color name="black_temp">#615a5a</color>
+    <color name="black_dark">#212020</color>
+    <color name="bright_black">#ae817c7b</color>
+    <color name="button_black">#454242</color>
+
+</resources>
